@@ -19,16 +19,12 @@ _Build zip contains the last playable version (wired for Steam connection, multi
 
   - Project Title:  
     _Lord of the Flies: Cooperative Multiplayer Resources Scavenging Game_
-  - Internal code:  
-    AR1 25-26
 
 **Objectives:**  
 A cooperative scavenging extraction game set in a post-apocalyptic world.
 
 **Motivation:**  
 Popularity of cooperative multiplayer: Sharing fun on social media; Emotional bonding with friends.
-
-<img width="906" height="510" alt="image" src="https://github.com/user-attachments/assets/966bb0fa-2e26-4fe8-a0ad-7187e64cc898" />
 
 <br>
 <br>
