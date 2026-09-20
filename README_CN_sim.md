@@ -18,8 +18,6 @@ _构建压缩包包含最后一个可游玩的版本（已接入 Steam 连接，
 
 - 项目名称：  
   _Lord of the Flies：合作多人资源搜刮撤离游戏_
-- 内部代号：  
-  AR1 25-26
 
 **目标：**  
 一款设定于后启示录世界中的合作搜刮撤离游戏。
@@ -27,7 +25,6 @@ _构建压缩包包含最后一个可游玩的版本（已接入 Steam 连接，
 **动机：**  
 合作多人游戏的流行：在社交媒体上分享乐趣；与朋友建立情感联系。
 
-<img width="906" height="510" alt="image" src="https://github.com/user-attachments/assets/966bb0fa-2e26-4fe8-a0ad-7187e64cc898" />
 
 <br>
 <br>
